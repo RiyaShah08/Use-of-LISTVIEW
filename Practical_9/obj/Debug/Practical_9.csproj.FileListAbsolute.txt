@@ -1,0 +1,37 @@
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\bin\Debug\Practical_9.exe.config
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\bin\Debug\Practical_9.exe
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\bin\Debug\Practical_9.pdb
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\obj\Debug\Practical_9.csprojResolveAssemblyReference.cache
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\obj\Debug\Practical_9.Form1.resources
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\obj\Debug\Practical_9.Properties.Resources.resources
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\obj\Debug\Practical_9.csproj.GenerateResource.Cache
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\obj\Debug\Practical_9.exe
+c:\users\ni\documents\visual studio 2012\Projects\Practical_9\Practical_9\obj\Debug\Practical_9.pdb
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\bin\Debug\Practical_9.exe.config
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\bin\Debug\Practical_9.exe
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\bin\Debug\Practical_9.pdb
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.csprojAssemblyReference.cache
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.Form1.resources
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.Properties.Resources.resources
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.csproj.GenerateResource.cache
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.csproj.CoreCompileInputs.cache
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.exe
+C:\Users\Aaditya Rasala\source\repos\Program_2\Practical_9\Practical_9\obj\Debug\Practical_9.pdb
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\bin\Debug\Practical_9.exe.config
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.exe
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.pdb
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\bin\Debug\Practical_9.exe
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\bin\Debug\Practical_9.pdb
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.csprojResolveAssemblyReference.cache
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.Form1.resources
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.Properties.Resources.resources
+D:\sem 4\ADT\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.csproj.GenerateResource.Cache
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\bin\Debug\Practical_9.exe.config
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.exe
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.pdb
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.csprojResolveAssemblyReference.cache
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.Form1.resources
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.Properties.Resources.resources
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\obj\Debug\Practical_9.csproj.GenerateResource.Cache
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\bin\Debug\Practical_9.exe
+D:\sem 4\ADT\coding file\Practical_9-20210309T071140Z-001\Practical_9\Practical_9\bin\Debug\Practical_9.pdb
