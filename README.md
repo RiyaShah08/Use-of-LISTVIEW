@@ -9,6 +9,6 @@ This is a Window application with ADO.NET framework. Based on use of Listview wi
 <image src="https://github.com/RiyaShah08/Use-of-LISTVIEW/blob/main/Output/3.PNG">
 <br>
   
-## Conformation Table
+## Message Box
 <image src="https://github.com/RiyaShah08/Use-of-LISTVIEW/blob/main/Output/4.PNG">
 <br>
